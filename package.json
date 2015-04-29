@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Nogrant/fryer",
   "dependencies": {
+    "cli-color": "^1.0.0",
     "kefir": "^2.1.0",
     "ssh2": "^0.4.7"
   }
